@@ -1,0 +1,33 @@
+.head{
+    padding: 10px;
+    background-color: rgb(65, 46, 46);
+    color: rgb(232, 220, 141);
+}
+.head,p{
+    color: rgb(232, 220, 141);
+    margin-top: -10px;
+}
+.lis,h1{
+    color: rgb(65, 46, 46);
+    font-size: 50px;
+    margin-left: 280px;
+    margin-top: 5px;
+}
+.lis,h2{
+    font-size: 20px;
+    margin-left: 250px;
+}
+.lis,ul{
+    margin-left: 220px;
+}
+footer{
+    padding: 90px;
+    background-color:rgb(65, 46, 46) ;
+}
+footer,p{
+    color: rgb(232, 220, 141);
+    margin-left: 1px;
+    font-size: 25px;
+    margin-top: 10px;
+ 
+}

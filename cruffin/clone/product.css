@@ -1,0 +1,27 @@
+.head{
+    padding: 10px;
+    background-color: rgb(65, 46, 46);
+    color: rgb(232, 220, 141);
+}
+.pic,h1{
+    font-size: 50px;
+    margin-left: 60px;
+    color: rgb(65, 46, 46);
+    margin-top: 90px;
+}
+.pic,p{
+    font-size: 20px;
+    margin-left: 60px;
+    margin-top: -10px;
+}
+footer{
+    padding: 90px;
+    background-color:rgb(65, 46, 46) ;
+}
+footer,p{
+    color: rgb(232, 220, 141);
+    margin-left: 1px;
+    font-size: 25px;
+    margin-top: 10px;
+ 
+}
